@@ -23,4 +23,3 @@ Each method is examined for its ability to handle the secondary task of obstacle
 **Term:** Summer Term 2023  
 **Advisor:** Jonathan Külz  
 **Supervisor:** Prof. Dr.-Ing. Matthias Althoff  
-**Submission:** 31. July 2023
